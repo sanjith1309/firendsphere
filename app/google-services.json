@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "712383703117",
+    "project_id": "firendsphere",
+    "storage_bucket": "firendsphere.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:712383703117:android:bf4ae63012f861c34b5404",
+        "android_client_info": {
+          "package_name": "com.example.firendsphere"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "712383703117-gjaqb1012r9j40av89ffn7livej1dvdj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCy9HGXZyNmg4XgYkGyavXF35sJfYcLIyc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "712383703117-gjaqb1012r9j40av89ffn7livej1dvdj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
